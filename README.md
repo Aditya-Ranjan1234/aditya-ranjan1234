@@ -25,4 +25,4 @@ Programming Languages: DSA (Python, Java, C) , Web Development (HTML, CSS, JavaS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya-ranjan1234&show_icons=true&theme=radical&card_width=500)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-ranjan1234&langs_count=15&layout=compact&theme=radical&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-ranjan1234&langs_count=15&theme=radical&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
