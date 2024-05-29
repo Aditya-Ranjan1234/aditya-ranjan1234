@@ -23,7 +23,7 @@ Feel free to explore my repositories and reach out if you have any questions or 
 
 Programming Languages: DSA (Python, Java, C) , Web Development (HTML, CSS, JavaScript, NodeJS, EJS, ReactJS, PostgreSQL)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/u/Totally_Inane/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Aditya-Ranjan)](https://leetcode.com/u/Totally_Inane/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya-ranjan1234&show_icons=true&theme=radical&card_width=500)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
 
